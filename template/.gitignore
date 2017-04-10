@@ -5,3 +5,4 @@ config.js
 platforms/*
 jsconfig.json
 .vscode
+typings

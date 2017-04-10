@@ -1,6 +1,6 @@
 {
   "AppName":"{{ name }}",
   "AppId":"{{ appId }}",
-  "SplashText":"Hello\n{{ author }}",
+  "SplashText":"Hello\n{{ name }}",
   "WeexBundle":"app.weex.js"
 }

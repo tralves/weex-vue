@@ -22,6 +22,6 @@
       "label": "Author"
     }
   },
-  "skipInterpolation": "**/*.{vue,js},src/**/*.html",
+  "skipInterpolation": "src/**/*.{vue,js,html}",
   "completeMessage": "To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm run build\n  npm run serve\n  open http://localhost:8080/"
 }
